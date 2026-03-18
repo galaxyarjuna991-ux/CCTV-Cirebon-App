@@ -1,0 +1,16 @@
+{
+  "name": "CCTV Cirebon",
+  "short_name": "CCTV Cirebon",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a237e",
+  "theme_color": "#1a237e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cctv.cirebonkota.go.id/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
